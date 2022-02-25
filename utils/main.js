@@ -1,6 +1,6 @@
 "use strict";
 (function() {
-	const jct = document.cookie.match(/jct=(.+?)(;|$)/);
+	#const jct = document.cookie.match(/jct=(.+?)(;|$)/);
 	const d = "lch\x7ah3473";
 	const w = `作者：<a style="text-decoration:underline"target="_blank"href="//space.bilibili.com/274753872">${d}</a>`;
 	//if (!location.search) location.search = Date.now();
